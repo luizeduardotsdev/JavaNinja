@@ -1,4 +1,4 @@
-package NivelIntermediario.Desafios.Desafio5;
+package Desafios.Desafio5;
 
 public class BancoKonoha {
     public static void main(String[] args) {
